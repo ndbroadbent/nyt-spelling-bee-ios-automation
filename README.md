@@ -2,6 +2,8 @@
 
 Scripts to automate the New York Times Spelling Bee game on their Crossword iOS app.
 
+![Screenshot of NYT Crossword Spelling Bee app](./screenshot.jpg)
+
 ### Requirements:
 
 * Jailbroken iPhone
