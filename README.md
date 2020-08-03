@@ -37,6 +37,10 @@ Adjust `const TOUCH_DELAY = 150000;`:
     * [Text detection](https://docs.autotouch.net/js/#how-to-find-text-on-the-screen)
   * Could also use the "find text" feature to parse the Rankings page and get the list of points for each ranking.
 
+### Why did you do this?
+
+It was fun
+
 ### License
 
 [MIT](./LICENSE)
